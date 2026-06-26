@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## 🧠 About Me
  
-- 🎓 B.Tech Computer Science @ Chennai — graduating 2026
+- 🎓 B.Tech Computer Science @ SRMIST RAMAPURAM — graduated 2026
 - 🤖 Interned at **TripGain** — built AI pipelines with **Google Gemini API** and automated hotel data scraping at scale
 - 🔐 Built an end-to-end **Intrusion Detection System** using ML + Flask + JavaScript
 - 🧪 Comfortable with the full loop: data → model → deployment → API
